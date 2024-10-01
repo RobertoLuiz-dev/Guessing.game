@@ -1,4 +1,4 @@
-Agora vamo começar no JavaScript... No jogo da advinhação a aplicação gera um número randômico, compara com o inserido pelo usuário e retorna em quantas tentativas houve o acerto. Nunca esquecendo da responsividade, a aplicação esta concebida para diferentes tamnhos de tela. Bora jogar?!?!?!
+Agora vamo começar no JavaScript... No jogo da advinhação a aplicação gera um número randômico, compara com o inserido pelo usuário e retorna em quantas tentativas houve o acerto. Nunca esquecendo da responsividade, a aplicação esta concebida para diferentes tamanhos de tela. Bora jogar?!?!?!
 
 ![image](https://github.com/user-attachments/assets/1b60e391-da94-4a84-a2b3-33880cb76bef)
 ![image](https://github.com/user-attachments/assets/599d1d08-2fc5-4b36-8d7a-6932d5c65276)
